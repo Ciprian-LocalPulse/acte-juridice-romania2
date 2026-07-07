@@ -87,6 +87,59 @@ Citeste [CONTRIBUTING.md](CONTRIBUTING.md) si [docs/ghid-contributii-juridice.md
 
 MIT - poti folosi, distribui si modifica orice model, cu pastrarea mentiunii de sursa.
 
+## **💖 Susține Proiectul**
+
+Acest proiect a fost creat din dorința de a **elimina barierele birocratice** și de a oferi acces gratuit la documente juridice corecte, actualizate și ușor de utilizat.
+
+Dacă **ți-a fost util**, poți susține continuarea proiectului printr-o **donație**. Fiecare contribuție, indiferent de mărime, ajută la:
+
+✅ **Actualizarea constantă** a modelelor conform noilor modificări legislative.
+✅ **Cercetarea și organizarea** de noi categorii de documente.
+✅ **Mentenanța infrastructurii** pentru a menține proiectul accesibil și fără reclame.
+
+> **⚠️ Donațiile sunt un gest de apreciere și NU creează o relație avocat-client.**
+
+### **🌍 Opțiuni de donații**
+
+#### **🇪🇺 SEPA / EUR**
+| Câmp | Detalii |
+|------|---------|
+| **Recipient** | Ciprian Stefan Plesca |
+| **IBAN** | `BE83 9679 1975 8915` |
+| **SWIFT / BIC** | `TRWIBEB1XXX` |
+| **Bancă** | Wise, Brussels, Belgium |
+
+#### **🇬🇧 UK / GBP**
+| Câmp | Detalii |
+|------|---------|
+| **Account number** | `92055372` |
+| **Sort code** | `23-14-70` |
+| **IBAN** | `GB68 TRWI 2314 7092 0553 72` |
+| **SWIFT / BIC** | `TRWIGB2LXXX` |
+| **Bancă** | Wise Payments Limited |
+
+#### **🇺🇸 USA / USD**
+| Câmp | Detalii |
+|------|---------|
+| **Routing number** | `026073150` |
+| **Account number** | `8314225367` |
+| **SWIFT / BIC** | `CMFGUS33` |
+| **Bancă** | Community Federal Savings Bank |
+
+#### **🇷🇴 România / RON**
+| Câmp | Detalii |
+|------|---------|
+| **IBAN** | `RO94 BREL 0005 6026 8420 0100` |
+| **Bancă** | Wise |
+
+#### **₿ Crypto**
+| Monedă | Adresă |
+|--------|--------|
+| **Bitcoin** | `bc1qf3yy0w8z37rwavxpu38wem3yffpanw7wzj32qj` |
+| **Ethereum** | `0x27d9a6a5b8507e6031bb044319410da96222d402` |
+| **PayPal** | [https://paypal.me/agentflowenterprise](https://paypal.me/agentflowenterprise) |
+
+---
 ## Avertisment juridic
 
 Citeste [docs/avertisment-juridic.md](docs/avertisment-juridic.md) inainte de folosire.
