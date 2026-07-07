@@ -1,0 +1,2489 @@
+[
+  {
+    "category": "locuinta",
+    "title": "Locuinta",
+    "order": 1,
+    "files": [
+      {
+        "file": "contract-inchiriere-locuinta.md",
+        "title": "Contract Inchiriere Locuinta"
+      },
+      {
+        "file": "contract-inchiriere-locuinta-sezonier.md",
+        "title": "Contract Inchiriere Locuinta Sezonier"
+      },
+      {
+        "file": "contract-comodat-locuinta.md",
+        "title": "Contract Comodat Locuinta"
+      },
+      {
+        "file": "act-aditional-prelungire-inchiriere.md",
+        "title": "Act Aditional Prelungire Inchiriere"
+      },
+      {
+        "file": "act-aditional-majorare-chirie.md",
+        "title": "Act Aditional Majorare Chirie"
+      },
+      {
+        "file": "notificare-reziliere-chirias.md",
+        "title": "Notificare Reziliere Chirias"
+      },
+      {
+        "file": "notificare-reziliere-proprietar.md",
+        "title": "Notificare Reziliere Proprietar"
+      },
+      {
+        "file": "proces-verbal-predare-primire-locuinta.md",
+        "title": "Proces Verbal Predare Primire Locuinta"
+      },
+      {
+        "file": "inventar-bunuri-locuinta.md",
+        "title": "Inventar Bunuri Locuinta"
+      },
+      {
+        "file": "cerere-restituire-garantie.md",
+        "title": "Cerere Restituire Garantie"
+      },
+      {
+        "file": "acord-plata-utilitati.md",
+        "title": "Acord Plata Utilitati"
+      },
+      {
+        "file": "notificare-defectiuni-urgente.md",
+        "title": "Notificare Defectiuni Urgente"
+      },
+      {
+        "file": "acord-subinchiriere.md",
+        "title": "Acord Subinchiriere"
+      },
+      {
+        "file": "cerere-evacuare-amiabila.md",
+        "title": "Cerere Evacuare Amiabila"
+      },
+      {
+        "file": "contract-inchiriere-garsoniera-mobila.md",
+        "title": "Contract Inchiriere Garsoniera Mobila"
+      },
+      {
+        "file": "declaratie-stare-imobil.md",
+        "title": "Declaratie Stare Imobil"
+      },
+      {
+        "file": "acord-lucrari-imbunatatire.md",
+        "title": "Acord Lucrari Imbunatatire"
+      },
+      {
+        "file": "model-chitanta-plata-chirie.md",
+        "title": "Model Chitanta Plata Chirie"
+      }
+    ],
+    "legal_basis": [
+      "Codul civil, art. 1.777-1.823",
+      "Codul civil, art. 1.270 si art. 1.516-1.535"
+    ]
+  },
+  {
+    "category": "munca-salariat",
+    "title": "Munca Salariat",
+    "order": 2,
+    "files": [
+      {
+        "file": "cerere-concediu-odihna.md",
+        "title": "Cerere Concediu Odihna"
+      },
+      {
+        "file": "cerere-concediu-fara-plata.md",
+        "title": "Cerere Concediu Fara Plata"
+      },
+      {
+        "file": "cerere-concediu-medical-aprobare.md",
+        "title": "Cerere Concediu Medical Aprobare"
+      },
+      {
+        "file": "cerere-concediu-crestere-copil.md",
+        "title": "Cerere Concediu Crestere Copil"
+      },
+      {
+        "file": "cerere-telemunca.md",
+        "title": "Cerere Telemunca"
+      },
+      {
+        "file": "cerere-program-flexibil.md",
+        "title": "Cerere Program Flexibil"
+      },
+      {
+        "file": "cerere-program-redus.md",
+        "title": "Cerere Program Redus"
+      },
+      {
+        "file": "demisie-cu-preaviz.md",
+        "title": "Demisie Cu Preaviz"
+      },
+      {
+        "file": "demisie-fara-preaviz-motive-intemeiate.md",
+        "title": "Demisie Fara Preaviz Motive Intemeiate"
+      },
+      {
+        "file": "cerere-incetare-acord-partilor.md",
+        "title": "Cerere Incetare Acord Partilor"
+      },
+      {
+        "file": "cerere-adeverinta-salariat.md",
+        "title": "Cerere Adeverinta Salariat"
+      },
+      {
+        "file": "cerere-adeverinta-venit-brut.md",
+        "title": "Cerere Adeverinta Venit Brut"
+      },
+      {
+        "file": "cerere-copie-contract-munca.md",
+        "title": "Cerere Copie Contract Munca"
+      },
+      {
+        "file": "cerere-eliberare-carte-munca.md",
+        "title": "Cerere Eliberare Carte Munca"
+      },
+      {
+        "file": "contestatie-decizie-disciplinara.md",
+        "title": "Contestatie Decizie Disciplinara"
+      },
+      {
+        "file": "contestatie-decizie-concediere.md",
+        "title": "Contestatie Decizie Concediere"
+      },
+      {
+        "file": "cerere-calculare-compensatie-concediu.md",
+        "title": "Cerere Calculare Compensatie Concediu"
+      },
+      {
+        "file": "notificare-nerespectare-contract-munca.md",
+        "title": "Notificare Nerespectare Contract Munca"
+      },
+      {
+        "file": "sesizare-itm.md",
+        "title": "Sesizare ITM"
+      },
+      {
+        "file": "foaie-pontaj-simpla.md",
+        "title": "Foaie Pontaj Simpla"
+      },
+      {
+        "file": "acord-detasare-temporara.md",
+        "title": "Acord Detasare Temporara"
+      },
+      {
+        "file": "cerere-modificare-fisa-post.md",
+        "title": "Cerere Modificare Fisa Post"
+      },
+      {
+        "file": "cerere-referinta-profesionala.md",
+        "title": "Cerere Referinta Profesionala"
+      },
+      {
+        "file": "notificare-incetare-delegare.md",
+        "title": "Notificare Incetare Delegare"
+      },
+      {
+        "file": "cerere-plata-ore-suplimentare.md",
+        "title": "Cerere Plata Ore Suplimentare"
+      }
+    ],
+    "legal_basis": [
+      "Legea nr. 53/2003 - Codul muncii, art. 8, art. 17, art. 39-40, art. 79-81",
+      "Legea nr. 81/2018 privind telemunca, art. 3-7"
+    ]
+  },
+  {
+    "category": "munca-ssm",
+    "title": "Munca SSM",
+    "order": 3,
+    "files": [
+      {
+        "file": "cerere-echipament-protectie.md",
+        "title": "Cerere Echipament Protectie"
+      },
+      {
+        "file": "sesizare-accident-munca.md",
+        "title": "Sesizare Accident Munca"
+      },
+      {
+        "file": "refuz-efectuare-activitate-periculoasa.md",
+        "title": "Refuz Efectuare Activitate Periculoasa"
+      },
+      {
+        "file": "cerere-evaluare-risc-post.md",
+        "title": "Cerere Evaluare Risc Post"
+      },
+      {
+        "file": "notificare-conditii-munca-neconforme.md",
+        "title": "Notificare Conditii Munca Neconforme"
+      },
+      {
+        "file": "cerere-instructaj-securitate.md",
+        "title": "Cerere Instructaj Securitate"
+      },
+      {
+        "file": "sesizare-itm-conditii-munca.md",
+        "title": "Sesizare ITM Conditii Munca"
+      },
+      {
+        "file": "declaratie-instructaj-ssm.md",
+        "title": "Declaratie Instructaj SSM"
+      }
+    ],
+    "legal_basis": [
+      "Legea nr. 319/2006 privind securitatea si sanatatea in munca, art. 6-13 si art. 22-23",
+      "HG nr. 1425/2006, art. 15"
+    ]
+  },
+  {
+    "category": "munca-discriminare",
+    "title": "Munca Discriminare",
+    "order": 4,
+    "files": [
+      {
+        "file": "sesizare-discriminare-angajare.md",
+        "title": "Sesizare Discriminare Angajare"
+      },
+      {
+        "file": "sesizare-hartuire-morala-mobbing.md",
+        "title": "Sesizare Hartuire Morala Mobbing"
+      },
+      {
+        "file": "sesizare-hartuire-sexuala-locul-munca.md",
+        "title": "Sesizare Hartuire Sexuala Locul Munca"
+      },
+      {
+        "file": "cerere-cncd-discriminare.md",
+        "title": "Cerere CNCD Discriminare"
+      },
+      {
+        "file": "notificare-angajator-discriminare.md",
+        "title": "Notificare Angajator Discriminare"
+      },
+      {
+        "file": "plangere-discriminare-salariu.md",
+        "title": "Plangere Discriminare Salariu"
+      }
+    ],
+    "legal_basis": [
+      "OG nr. 137/2000 privind prevenirea si sanctionarea discriminarii, art. 2, art. 5-7, art. 20",
+      "Legea nr. 202/2002, art. 4-8"
+    ]
+  },
+  {
+    "category": "afaceri-contracte",
+    "title": "Afaceri Contracte",
+    "order": 5,
+    "files": [
+      {
+        "file": "contract-prestari-servicii-simplu.md",
+        "title": "Contract Prestari Servicii Simplu"
+      },
+      {
+        "file": "contract-prestari-servicii-lunar.md",
+        "title": "Contract Prestari Servicii Lunar"
+      },
+      {
+        "file": "contract-consultanta.md",
+        "title": "Contract Consultanta"
+      },
+      {
+        "file": "contract-colaborare-freelancer.md",
+        "title": "Contract Colaborare Freelancer"
+      },
+      {
+        "file": "contract-mentenanta-it.md",
+        "title": "Contract Mentenanta IT"
+      },
+      {
+        "file": "contract-marketing-digital.md",
+        "title": "Contract Marketing Digital"
+      },
+      {
+        "file": "contract-agent-comercial.md",
+        "title": "Contract Agent Comercial"
+      },
+      {
+        "file": "acord-confidentialitate-nda-simplu.md",
+        "title": "Acord Confidentialitate NDA Simplu"
+      },
+      {
+        "file": "acord-confidentialitate-nda-complex.md",
+        "title": "Acord Confidentialitate NDA Complex"
+      },
+      {
+        "file": "acord-confidentialitate-angajat.md",
+        "title": "Acord Confidentialitate Angajat"
+      },
+      {
+        "file": "contract-cesiune-drepturi-autor.md",
+        "title": "Contract Cesiune Drepturi Autor"
+      },
+      {
+        "file": "contract-licenta-software.md",
+        "title": "Contract Licenta Software"
+      },
+      {
+        "file": "oferta-comerciala.md",
+        "title": "Oferta Comerciala"
+      },
+      {
+        "file": "comanda-ferma.md",
+        "title": "Comanda Ferma"
+      },
+      {
+        "file": "proces-verbal-receptie-servicii.md",
+        "title": "Proces Verbal Receptie Servicii"
+      },
+      {
+        "file": "proces-verbal-predare-documente.md",
+        "title": "Proces Verbal Predare Documente"
+      },
+      {
+        "file": "notificare-intarziere-plata.md",
+        "title": "Notificare Intarziere Plata"
+      },
+      {
+        "file": "somatie-plata-amiabila.md",
+        "title": "Somatie Plata Amiabila"
+      },
+      {
+        "file": "acord-esalonare-datorie-comerciala.md",
+        "title": "Acord Esalonare Datorie Comerciala"
+      },
+      {
+        "file": "acord-reziliere-contract.md",
+        "title": "Acord Reziliere Contract"
+      },
+      {
+        "file": "acord-modificare-contract.md",
+        "title": "Acord Modificare Contract"
+      },
+      {
+        "file": "act-aditional-prelungire-contract.md",
+        "title": "Act Aditional Prelungire Contract"
+      },
+      {
+        "file": "declaratie-conformitate-servicii.md",
+        "title": "Declaratie Conformitate Servicii"
+      },
+      {
+        "file": "scrisoare-intentie-parteneriat.md",
+        "title": "Scrisoare Intentie Parteneriat"
+      }
+    ],
+    "legal_basis": [
+      "Codul civil, art. 1.166-1.323",
+      "Codul civil, art. 1.516-1.535"
+    ]
+  },
+  {
+    "category": "afaceri-proprietate-intelectuala",
+    "title": "Afaceri Proprietate Intelectuala",
+    "order": 6,
+    "files": [
+      {
+        "file": "cerere-inregistrare-marca-osim.md",
+        "title": "Cerere Inregistrare Marca OSIM"
+      },
+      {
+        "file": "notificare-incalcare-marca.md",
+        "title": "Notificare Incalcare Marca"
+      },
+      {
+        "file": "contract-cesiune-marca.md",
+        "title": "Contract Cesiune Marca"
+      },
+      {
+        "file": "contract-licenta-utilizare-marca.md",
+        "title": "Contract Licenta Utilizare Marca"
+      },
+      {
+        "file": "acord-confidentialitate-idee-inovare.md",
+        "title": "Acord Confidentialitate Idee Inovare"
+      },
+      {
+        "file": "sesizare-contrafacere-produs.md",
+        "title": "Sesizare Contrafacere Produs"
+      },
+      {
+        "file": "cerere-inregistrare-desen-model-industrial.md",
+        "title": "Cerere Inregistrare Desen Model Industrial"
+      },
+      {
+        "file": "declaratie-paternitate-opera.md",
+        "title": "Declaratie Paternitate Opera"
+      }
+    ],
+    "legal_basis": [
+      "Legea nr. 8/1996 privind dreptul de autor, art. 39-47",
+      "Legea nr. 84/1998 privind marcile, art. 36-39"
+    ]
+  },
+  {
+    "category": "afaceri-concurenta-gdpr",
+    "title": "Afaceri Concurenta GDPR",
+    "order": 7,
+    "files": [
+      {
+        "file": "notificare-incalcare-concurenta-neloiala.md",
+        "title": "Notificare Incalcare Concurenta Neloiala"
+      },
+      {
+        "file": "sesizare-consiliul-concurentei.md",
+        "title": "Sesizare Consiliul Concurentei"
+      },
+      {
+        "file": "politica-gdpr-site-simpla.md",
+        "title": "Politica GDPR Site Simpla"
+      },
+      {
+        "file": "acord-prelucrare-date-colaborator.md",
+        "title": "Acord Prelucrare Date Colaborator"
+      },
+      {
+        "file": "notificare-incalcare-securitate-date.md",
+        "title": "Notificare Incalcare Securitate Date"
+      },
+      {
+        "file": "registru-activitati-prelucrare-simplu.md",
+        "title": "Registru Activitati Prelucrare Simplu"
+      }
+    ],
+    "legal_basis": [
+      "Legea nr. 11/1991 privind combaterea concurentei neloiale, art. 2-5",
+      "Regulamentul (UE) 2016/679, art. 5-6, art. 12-15, art. 30-33"
+    ]
+  },
+  {
+    "category": "familie-relatii",
+    "title": "Familie Relatii",
+    "order": 8,
+    "files": [
+      {
+        "file": "procura-generala.md",
+        "title": "Procura Generala"
+      },
+      {
+        "file": "procura-speciala-vanzare.md",
+        "title": "Procura Speciala Vanzare"
+      },
+      {
+        "file": "procura-speciala-reprezentare.md",
+        "title": "Procura Speciala Reprezentare"
+      },
+      {
+        "file": "imputernicire-ridicare-documente.md",
+        "title": "Imputernicire Ridicare Documente"
+      },
+      {
+        "file": "imputernicire-ridicare-pensie.md",
+        "title": "Imputernicire Ridicare Pensie"
+      },
+      {
+        "file": "declaratie-pe-proprie-raspundere.md",
+        "title": "Declaratie Pe Proprie Raspundere"
+      },
+      {
+        "file": "declaratie-gazduire.md",
+        "title": "Declaratie Gazduire"
+      },
+      {
+        "file": "declaratie-venituri.md",
+        "title": "Declaratie Venituri"
+      },
+      {
+        "file": "acord-folosire-adresa-corespondenta.md",
+        "title": "Acord Folosire Adresa Corespondenta"
+      },
+      {
+        "file": "acord-parental-calatorie-minor.md",
+        "title": "Acord Parental Calatorie Minor"
+      },
+      {
+        "file": "acord-parental-operatie-minor.md",
+        "title": "Acord Parental Operatie Minor"
+      },
+      {
+        "file": "acord-parental-inscriere-activitate.md",
+        "title": "Acord Parental Inscriere Activitate"
+      },
+      {
+        "file": "declaratie-stare-de-fapt.md",
+        "title": "Declaratie Stare De Fapt"
+      },
+      {
+        "file": "acord-partaj-bunuri-comune-in-afara-divortului.md",
+        "title": "Acord Partaj Bunuri Comune In Afara Divortului"
+      },
+      {
+        "file": "acord-utilizare-bun-comun.md",
+        "title": "Acord Utilizare Bun Comun"
+      }
+    ],
+    "legal_basis": [
+      "Codul civil, art. 2.009-2.038",
+      "Codul civil, art. 329-359"
+    ]
+  },
+  {
+    "category": "familie-divort-custodie",
+    "title": "Familie Divort Custodie",
+    "order": 9,
+    "files": [
+      {
+        "file": "cerere-divort-comun-acord-fara-copii.md",
+        "title": "Cerere Divort Comun Acord Fara Copii"
+      },
+      {
+        "file": "cerere-divort-comun-acord-cu-copii.md",
+        "title": "Cerere Divort Comun Acord Cu Copii"
+      },
+      {
+        "file": "acord-parental-privind-copilul.md",
+        "title": "Acord Parental Privind Copilul"
+      },
+      {
+        "file": "cerere-stabilire-program-vizita.md",
+        "title": "Cerere Stabilire Program Vizita"
+      },
+      {
+        "file": "cerere-modificare-program-vizita.md",
+        "title": "Cerere Modificare Program Vizita"
+      },
+      {
+        "file": "cerere-pensie-alimentara.md",
+        "title": "Cerere Pensie Alimentara"
+      },
+      {
+        "file": "cerere-majorare-pensie-alimentara.md",
+        "title": "Cerere Majorare Pensie Alimentara"
+      },
+      {
+        "file": "cerere-executare-obligatie-pensie-alimentara.md",
+        "title": "Cerere Executare Obligatie Pensie Alimentara"
+      },
+      {
+        "file": "notificare-refuz-predare-copil.md",
+        "title": "Notificare Refuz Predare Copil"
+      },
+      {
+        "file": "acord-exercitare-autoritate-parinteasca.md",
+        "title": "Acord Exercitare Autoritate Parinteasca"
+      }
+    ],
+    "legal_basis": [
+      "Codul civil, art. 373-404",
+      "Codul de procedura civila, art. 914-934"
+    ]
+  },
+  {
+    "category": "familie-minori-protectie",
+    "title": "Familie Minori Protectie",
+    "order": 10,
+    "files": [
+      {
+        "file": "sesizare-dgaspc-copil-in-dificultate.md",
+        "title": "Sesizare DGASPC Copil In Dificultate"
+      },
+      {
+        "file": "cerere-ancheta-sociala.md",
+        "title": "Cerere Ancheta Sociala"
+      },
+      {
+        "file": "cerere-tutela-minor.md",
+        "title": "Cerere Tutela Minor"
+      },
+      {
+        "file": "declaratie-incredintare-minora-temporara.md",
+        "title": "Declaratie Incredintare Minora Temporara"
+      },
+      {
+        "file": "cerere-adoptie-informatii.md",
+        "title": "Cerere Adoptie Informatii"
+      },
+      {
+        "file": "notificare-scoala-absente-copil.md",
+        "title": "Notificare Scoala Absente Copil"
+      },
+      {
+        "file": "acord-plasament-familial-informal.md",
+        "title": "Acord Plasament Familial Informal"
+      }
+    ],
+    "legal_basis": [
+      "Legea nr. 272/2004 privind protectia copilului, art. 6, art. 89-96",
+      "Codul civil, art. 110-171"
+    ]
+  },
+  {
+    "category": "familie-violenta-domestica",
+    "title": "Familie Violenta Domestica",
+    "order": 11,
+    "files": [
+      {
+        "file": "cerere-ordin-protectie-provizoriu.md",
+        "title": "Cerere Ordin Protectie Provizoriu"
+      },
+      {
+        "file": "plangere-penala-violenta-domestica.md",
+        "title": "Plangere Penala Violenta Domestica"
+      },
+      {
+        "file": "cerere-adapost-victima.md",
+        "title": "Cerere Adapost Victima"
+      },
+      {
+        "file": "notificare-politie-hartuire.md",
+        "title": "Notificare Politie Hartuire"
+      },
+      {
+        "file": "declaratie-martor-violenta-domestica.md",
+        "title": "Declaratie Martor Violenta Domestica"
+      },
+      {
+        "file": "cerere-ajutor-de-urgenta-victima.md",
+        "title": "Cerere Ajutor De Urgenta Victima"
+      }
+    ],
+    "legal_basis": [
+      "Legea nr. 217/2003 pentru prevenirea si combaterea violentei domestice, art. 22-38",
+      "Codul penal, art. 199"
+    ]
+  },
+  {
+    "category": "administrativ-petitii",
+    "title": "Administrativ Petitii",
+    "order": 12,
+    "files": [
+      {
+        "file": "cerere-generica-institutie-publica.md",
+        "title": "Cerere Generica Institutie Publica"
+      },
+      {
+        "file": "petitie-primarie.md",
+        "title": "Petitie Primarie"
+      },
+      {
+        "file": "cerere-informatii-publice-legea-544.md",
+        "title": "Cerere Informatii Publice Legea 544"
+      },
+      {
+        "file": "reclamatie-administrativa-legea-544.md",
+        "title": "Reclamatie Administrativa Legea 544"
+      },
+      {
+        "file": "cerere-audienta.md",
+        "title": "Cerere Audienta"
+      },
+      {
+        "file": "contestatie-amenda-contraventionala.md",
+        "title": "Contestatie Amenda Contraventionala"
+      },
+      {
+        "file": "cerere-anulare-amenda-politie.md",
+        "title": "Cerere Anulare Amenda Politie"
+      },
+      {
+        "file": "plangere-contraventionala-instanta.md",
+        "title": "Plangere Contraventionala Instanta"
+      },
+      {
+        "file": "cerere-restituire-suma-platita-nedatorat.md",
+        "title": "Cerere Restituire Suma Platita Nedatorat"
+      },
+      {
+        "file": "cerere-recalcul-impozit-local.md",
+        "title": "Cerere Recalcul Impozit Local"
+      },
+      {
+        "file": "cerere-scutire-impozit.md",
+        "title": "Cerere Scutire Impozit"
+      },
+      {
+        "file": "cerere-certificat-fiscal.md",
+        "title": "Cerere Certificat Fiscal"
+      },
+      {
+        "file": "contestatie-decizie-administrativ.md",
+        "title": "Contestatie Decizie Administrativ"
+      },
+      {
+        "file": "cerere-esalonare-debite-buget-local.md",
+        "title": "Cerere Esalonare Debite Buget Local"
+      },
+      {
+        "file": "cerere-schimbare-date-act-identitate.md",
+        "title": "Cerere Schimbare Date Act Identitate"
+      },
+      {
+        "file": "cerere-viza-flotant.md",
+        "title": "Cerere Viza Flotant"
+      },
+      {
+        "file": "cerere-schimbare-domiciliu.md",
+        "title": "Cerere Schimbare Domiciliu"
+      },
+      {
+        "file": "cerere-duplicat-act-identitate.md",
+        "title": "Cerere Duplicat Act Identitate"
+      },
+      {
+        "file": "sesizare-politie-rutiera.md",
+        "title": "Sesizare Politie Rutiera"
+      },
+      {
+        "file": "cerere-reabilitare-cazier.md",
+        "title": "Cerere Reabilitare Cazier"
+      },
+      {
+        "file": "cerere-acte-vechime-arhive.md",
+        "title": "Cerere Acte Vechime Arhive"
+      }
+    ],
+    "legal_basis": [
+      "Constitutia Romaniei, art. 51",
+      "OG nr. 27/2002 privind activitatea de solutionare a petitiilor, art. 2-8",
+      "Legea nr. 544/2001, art. 6-8"
+    ]
+  },
+  {
+    "category": "administrativ-stare-civila",
+    "title": "Administrativ Stare Civila",
+    "order": 13,
+    "files": [
+      {
+        "file": "cerere-certificat-nastere-duplicat.md",
+        "title": "Cerere Certificat Nastere Duplicat"
+      },
+      {
+        "file": "cerere-certificat-casatorie-duplicat.md",
+        "title": "Cerere Certificat Casatorie Duplicat"
+      },
+      {
+        "file": "cerere-certificat-deces-duplicat.md",
+        "title": "Cerere Certificat Deces Duplicat"
+      },
+      {
+        "file": "cerere-transcriere-act-stare-civila-strainatate.md",
+        "title": "Cerere Transcriere Act Stare Civila Strainatate"
+      },
+      {
+        "file": "cerere-rectificare-act-stare-civila.md",
+        "title": "Cerere Rectificare Act Stare Civila"
+      },
+      {
+        "file": "cerere-schimbare-nume-pe-cale-administrativa.md",
+        "title": "Cerere Schimbare Nume Pe Cale Administrativa"
+      },
+      {
+        "file": "cerere-mentiune-divort-act-nastere.md",
+        "title": "Cerere Mentiune Divort Act Nastere"
+      },
+      {
+        "file": "declaratie-recunoastere-copil.md",
+        "title": "Declaratie Recunoastere Copil"
+      }
+    ],
+    "legal_basis": [
+      "Legea nr. 119/1996 cu privire la actele de stare civila, art. 9-17 si art. 57-61",
+      "Codul civil, art. 98-103"
+    ]
+  },
+  {
+    "category": "administrativ-pasapoarte-permise",
+    "title": "Administrativ Pasapoarte Permise",
+    "order": 14,
+    "files": [
+      {
+        "file": "cerere-pasaport-simplu-electronic.md",
+        "title": "Cerere Pasaport Simplu Electronic"
+      },
+      {
+        "file": "cerere-pasaport-urgenta.md",
+        "title": "Cerere Pasaport Urgenta"
+      },
+      {
+        "file": "cerere-permis-conducere-duplicat.md",
+        "title": "Cerere Permis Conducere Duplicat"
+      },
+      {
+        "file": "cerere-preschimbare-permis-conducere.md",
+        "title": "Cerere Preschimbare Permis Conducere"
+      },
+      {
+        "file": "cerere-permis-sedere-cetatean-ue.md",
+        "title": "Cerere Permis Sedere Cetatean UE"
+      },
+      {
+        "file": "cerere-permis-sedere-cetatean-non-ue.md",
+        "title": "Cerere Permis Sedere Cetatean Non UE"
+      },
+      {
+        "file": "cerere-viza-lunga-sedere.md",
+        "title": "Cerere Viza Lunga Sedere"
+      }
+    ],
+    "legal_basis": [
+      "Legea nr. 248/2005 privind regimul liberei circulatii, art. 6-17",
+      "OUG nr. 195/2002 privind circulatia pe drumurile publice, art. 23-24"
+    ]
+  },
+  {
+    "category": "administrativ-constructii",
+    "title": "Administrativ Constructii",
+    "order": 15,
+    "files": [
+      {
+        "file": "cerere-autorizatie-construire.md",
+        "title": "Cerere Autorizatie Construire"
+      },
+      {
+        "file": "cerere-autorizatie-demolare.md",
+        "title": "Cerere Autorizatie Demolare"
+      },
+      {
+        "file": "cerere-certificat-urbanism.md",
+        "title": "Cerere Certificat Urbanism"
+      },
+      {
+        "file": "cerere-receptie-lucrari.md",
+        "title": "Cerere Receptie Lucrari"
+      },
+      {
+        "file": "notificare-vecin-lucrari-constructie.md",
+        "title": "Notificare Vecin Lucrari Constructie"
+      },
+      {
+        "file": "contestatie-autorizatie-construire-tert.md",
+        "title": "Contestatie Autorizatie Construire Tert"
+      },
+      {
+        "file": "cerere-intabulare-constructie-noua.md",
+        "title": "Cerere Intabulare Constructie Noua"
+      },
+      {
+        "file": "cerere-dezmembrare-teren.md",
+        "title": "Cerere Dezmembrare Teren"
+      },
+      {
+        "file": "cerere-alipire-terenuri.md",
+        "title": "Cerere Alipire Terenuri"
+      }
+    ],
+    "legal_basis": [
+      "Legea nr. 50/1991 privind autorizarea lucrarilor de constructii, art. 1-7",
+      "Legea nr. 7/1996 a cadastrului si publicitatii imobiliare, art. 28-31"
+    ]
+  },
+  {
+    "category": "consumatori",
+    "title": "Consumatori",
+    "order": 16,
+    "files": [
+      {
+        "file": "reclamatie-anpc.md",
+        "title": "Reclamatie ANPC"
+      },
+      {
+        "file": "cerere-retur-produs-14-zile.md",
+        "title": "Cerere Retur Produs 14 Zile"
+      },
+      {
+        "file": "cerere-remediere-garantie-legala.md",
+        "title": "Cerere Remediere Garantie Legala"
+      },
+      {
+        "file": "cerere-inlocuire-produs-garantie.md",
+        "title": "Cerere Inlocuire Produs Garantie"
+      },
+      {
+        "file": "cerere-restituire-bani-garantie.md",
+        "title": "Cerere Restituire Bani Garantie"
+      },
+      {
+        "file": "notificare-serviciu-neprestat-conform.md",
+        "title": "Notificare Serviciu Neprestat Conform"
+      },
+      {
+        "file": "cerere-anulare-comanda-online.md",
+        "title": "Cerere Anulare Comanda Online"
+      },
+      {
+        "file": "cerere-reziliere-abonament.md",
+        "title": "Cerere Reziliere Abonament"
+      },
+      {
+        "file": "notificare-clauza-abuziva-contract.md",
+        "title": "Notificare Clauza Abuziva Contract"
+      },
+      {
+        "file": "sesizare-operator-telefonie-ancom.md",
+        "title": "Sesizare Operator Telefonie ANCOM"
+      },
+      {
+        "file": "sesizare-operator-energie-anre.md",
+        "title": "Sesizare Operator Energie ANRE"
+      },
+      {
+        "file": "sesizare-operator-apa-canal.md",
+        "title": "Sesizare Operator Apa Canal"
+      },
+      {
+        "file": "plangere-zbor-intarziat-anpc.md",
+        "title": "Plangere Zbor Intarziat ANPC"
+      },
+      {
+        "file": "cerere-rambursare-serviciu-nelivrat.md",
+        "title": "Cerere Rambursare Serviciu Nelivrat"
+      }
+    ],
+    "legal_basis": [
+      "OG nr. 21/1992 privind protectia consumatorilor, art. 9-13",
+      "OUG nr. 34/2014, art. 9-16",
+      "Legea nr. 449/2003, art. 9-14"
+    ]
+  },
+  {
+    "category": "vanzare-cumparare",
+    "title": "Vanzare Cumparare",
+    "order": 17,
+    "files": [
+      {
+        "file": "contract-vanzare-cumparare-bun-mobil.md",
+        "title": "Contract Vanzare Cumparare Bun Mobil"
+      },
+      {
+        "file": "contract-vanzare-cumparare-cu-garantie.md",
+        "title": "Contract Vanzare Cumparare Cu Garantie"
+      },
+      {
+        "file": "chitanta-simpla.md",
+        "title": "Chitanta Simpla"
+      },
+      {
+        "file": "chitanta-vanzare-cumparare.md",
+        "title": "Chitanta Vanzare Cumparare"
+      },
+      {
+        "file": "promisiune-vanzare-cumparare-bun-mobil.md",
+        "title": "Promisiune Vanzare Cumparare Bun Mobil"
+      },
+      {
+        "file": "proces-verbal-predare-primire-bun-mobil.md",
+        "title": "Proces Verbal Predare Primire Bun Mobil"
+      },
+      {
+        "file": "acord-restituire-avans.md",
+        "title": "Acord Restituire Avans"
+      },
+      {
+        "file": "notificare-rezolutiune-contract-vanzare.md",
+        "title": "Notificare Rezolutiune Contract Vanzare"
+      },
+      {
+        "file": "cerere-predare-bun-dupa-plata.md",
+        "title": "Cerere Predare Bun Dupa Plata"
+      },
+      {
+        "file": "acord-plata-in-rate-bun-mobil.md",
+        "title": "Acord Plata In Rate Bun Mobil"
+      },
+      {
+        "file": "declaratie-predare-suma-de-bani.md",
+        "title": "Declaratie Predare Suma De Bani"
+      },
+      {
+        "file": "acord-returnare-bun-cu-defect.md",
+        "title": "Acord Returnare Bun Cu Defect"
+      }
+    ],
+    "legal_basis": [
+      "Codul civil, art. 1.650-1.762",
+      "Codul civil, art. 1.270 si art. 1.516-1.535"
+    ]
+  },
+  {
+    "category": "auto",
+    "title": "Auto",
+    "order": 18,
+    "files": [
+      {
+        "file": "contract-vanzare-cumparare-auto.md",
+        "title": "Contract Vanzare Cumparare Auto"
+      },
+      {
+        "file": "contract-comodat-auto.md",
+        "title": "Contract Comodat Auto"
+      },
+      {
+        "file": "imputernicire-auto-generala.md",
+        "title": "Imputernicire Auto Generala"
+      },
+      {
+        "file": "imputernicire-auto-specifica.md",
+        "title": "Imputernicire Auto Specifica"
+      },
+      {
+        "file": "proces-verbal-predare-primire-auto.md",
+        "title": "Proces Verbal Predare Primire Auto"
+      },
+      {
+        "file": "declaratie-dauna-accident-amiabil.md",
+        "title": "Declaratie Dauna Accident Amiabil"
+      },
+      {
+        "file": "cerere-despagubire-rca.md",
+        "title": "Cerere Despagubire RCA"
+      },
+      {
+        "file": "notificare-asigurator-dauna.md",
+        "title": "Notificare Asigurator Dauna"
+      },
+      {
+        "file": "cerere-constatare-dauna-casco.md",
+        "title": "Cerere Constatare Dauna CASCO"
+      },
+      {
+        "file": "acord-cesiune-drept-despagubire-auto.md",
+        "title": "Acord Cesiune Drept Despagubire Auto"
+      }
+    ],
+    "legal_basis": [
+      "Codul civil, art. 1.650-1.762",
+      "OUG nr. 195/2002, art. 11 si art. 23-24",
+      "Legea nr. 132/2017, art. 14-22"
+    ]
+  },
+  {
+    "category": "imobiliare-vanzare",
+    "title": "Imobiliare Vanzare",
+    "order": 19,
+    "files": [
+      {
+        "file": "antecontract-vanzare-cumparare-imobil.md",
+        "title": "Antecontract Vanzare Cumparare Imobil"
+      },
+      {
+        "file": "promisiune-unilaterala-vanzare-imobil.md",
+        "title": "Promisiune Unilaterala Vanzare Imobil"
+      },
+      {
+        "file": "acord-arvuna-imobil.md",
+        "title": "Acord Arvuna Imobil"
+      },
+      {
+        "file": "notificare-neexecutare-antecontract-imobil.md",
+        "title": "Notificare Neexecutare Antecontract Imobil"
+      },
+      {
+        "file": "cerere-rezolutiune-antecontract.md",
+        "title": "Cerere Rezolutiune Antecontract"
+      },
+      {
+        "file": "acord-predare-anticipata-imobil.md",
+        "title": "Acord Predare Anticipata Imobil"
+      },
+      {
+        "file": "proces-verbal-predare-primire-imobil.md",
+        "title": "Proces Verbal Predare Primire Imobil"
+      },
+      {
+        "file": "declaratie-stare-imobil-la-predare.md",
+        "title": "Declaratie Stare Imobil La Predare"
+      },
+      {
+        "file": "notificare-exercitare-drept-preemptiune.md",
+        "title": "Notificare Exercitare Drept Preemptiune"
+      },
+      {
+        "file": "cerere-intabulare-drept-proprietate.md",
+        "title": "Cerere Intabulare Drept Proprietate"
+      },
+      {
+        "file": "cerere-radiere-sarcina-carte-funciara.md",
+        "title": "Cerere Radiere Sarcina Carte Funciara"
+      }
+    ],
+    "legal_basis": [
+      "Codul civil, art. 1.244, art. 1.650-1.762",
+      "Legea nr. 7/1996, art. 28-31"
+    ]
+  },
+  {
+    "category": "imobiliare-servituti",
+    "title": "Imobiliare Servituti",
+    "order": 20,
+    "files": [
+      {
+        "file": "acord-servitute-trecere.md",
+        "title": "Acord Servitute Trecere"
+      },
+      {
+        "file": "notificare-incalcare-granita-proprietate.md",
+        "title": "Notificare Incalcare Granita Proprietate"
+      },
+      {
+        "file": "cerere-granituire-teren.md",
+        "title": "Cerere Granituire Teren"
+      },
+      {
+        "file": "acord-vecinatate-constructie.md",
+        "title": "Acord Vecinatate Constructie"
+      },
+      {
+        "file": "notificare-lucrari-afectare-vecin.md",
+        "title": "Notificare Lucrari Afectare Vecin"
+      },
+      {
+        "file": "cerere-expertiza-tehnica-constructie.md",
+        "title": "Cerere Expertiza Tehnica Constructie"
+      }
+    ],
+    "legal_basis": [
+      "Codul civil, art. 617-643",
+      "Codul civil, art. 560-566"
+    ]
+  },
+  {
+    "category": "succesiuni",
+    "title": "Succesiuni",
+    "order": 21,
+    "files": [
+      {
+        "file": "testament-olograf.md",
+        "title": "Testament Olograf"
+      },
+      {
+        "file": "declaratie-acceptare-succesiune.md",
+        "title": "Declaratie Acceptare Succesiune"
+      },
+      {
+        "file": "declaratie-renuntare-succesiune.md",
+        "title": "Declaratie Renuntare Succesiune"
+      },
+      {
+        "file": "acord-iesire-din-indiviziune.md",
+        "title": "Acord Iesire Din Indiviziune"
+      },
+      {
+        "file": "cerere-dezbatere-succesiune-notar.md",
+        "title": "Cerere Dezbatere Succesiune Notar"
+      },
+      {
+        "file": "inventar-bunuri-succesiune.md",
+        "title": "Inventar Bunuri Succesiune"
+      },
+      {
+        "file": "cerere-publicitate-testament.md",
+        "title": "Cerere Publicitate Testament"
+      },
+      {
+        "file": "notificare-mostenitor-omis.md",
+        "title": "Notificare Mostenitor Omis"
+      },
+      {
+        "file": "cerere-partaj-judiciar.md",
+        "title": "Cerere Partaj Judiciar"
+      },
+      {
+        "file": "acord-plata-datorii-succesiune.md",
+        "title": "Acord Plata Datorii Succesiune"
+      },
+      {
+        "file": "declaratie-mostenitor-unic.md",
+        "title": "Declaratie Mostenitor Unic"
+      }
+    ],
+    "legal_basis": [
+      "Codul civil, art. 1.034-1.163",
+      "Legea nr. 36/1995 privind notarii publici, art. 101-118"
+    ]
+  },
+  {
+    "category": "imprumuturi-garantii",
+    "title": "Imprumuturi Garantii",
+    "order": 22,
+    "files": [
+      {
+        "file": "contract-imprumut-bani-persoane-fizice.md",
+        "title": "Contract Imprumut Bani Persoane Fizice"
+      },
+      {
+        "file": "contract-imprumut-bani-cu-dobanda.md",
+        "title": "Contract Imprumut Bani Cu Dobanda"
+      },
+      {
+        "file": "recunoastere-de-datorie.md",
+        "title": "Recunoastere De Datorie"
+      },
+      {
+        "file": "contract-fidejusiune-garantie-personala.md",
+        "title": "Contract Fidejusiune Garantie Personala"
+      },
+      {
+        "file": "contract-gaj-bun-mobil.md",
+        "title": "Contract Gaj Bun Mobil"
+      },
+      {
+        "file": "notificare-restituire-imprumut-scadent.md",
+        "title": "Notificare Restituire Imprumut Scadent"
+      },
+      {
+        "file": "acord-novatie-datorie.md",
+        "title": "Acord Novatie Datorie"
+      },
+      {
+        "file": "acord-remitere-datorie.md",
+        "title": "Acord Remitere Datorie"
+      },
+      {
+        "file": "cerere-restituire-imprumut-instanta.md",
+        "title": "Cerere Restituire Imprumut Instanta"
+      }
+    ],
+    "legal_basis": [
+      "Codul civil, art. 2.158-2.170",
+      "Codul civil, art. 2.280-2.320"
+    ]
+  },
+  {
+    "category": "firme-pfa",
+    "title": "Firme PFA",
+    "order": 23,
+    "files": [
+      {
+        "file": "decizie-asociat-unic-srl.md",
+        "title": "Decizie Asociat Unic SRL"
+      },
+      {
+        "file": "hotarare-aga-srl.md",
+        "title": "Hotarare Aga SRL"
+      },
+      {
+        "file": "contract-comodat-spatiu-sediu-firma.md",
+        "title": "Contract Comodat Spatiu Sediu Firma"
+      },
+      {
+        "file": "cerere-suspendare-activitate-pfa.md",
+        "title": "Cerere Suspendare Activitate PFA"
+      },
+      {
+        "file": "cerere-reluare-activitate-pfa.md",
+        "title": "Cerere Reluare Activitate PFA"
+      },
+      {
+        "file": "cerere-radiere-pfa.md",
+        "title": "Cerere Radiere PFA"
+      },
+      {
+        "file": "cerere-radiere-srl.md",
+        "title": "Cerere Radiere SRL"
+      },
+      {
+        "file": "decizie-numire-administrator.md",
+        "title": "Decizie Numire Administrator"
+      },
+      {
+        "file": "decizie-revocare-administrator.md",
+        "title": "Decizie Revocare Administrator"
+      },
+      {
+        "file": "decizie-majorare-capital-social.md",
+        "title": "Decizie Majorare Capital Social"
+      },
+      {
+        "file": "acord-cesiune-parti-sociale.md",
+        "title": "Acord Cesiune Parti Sociale"
+      },
+      {
+        "file": "notificare-retragere-asociat.md",
+        "title": "Notificare Retragere Asociat"
+      },
+      {
+        "file": "decizie-excludere-asociat.md",
+        "title": "Decizie Excludere Asociat"
+      },
+      {
+        "file": "acord-cooptare-asociat-nou.md",
+        "title": "Acord Cooptare Asociat Nou"
+      }
+    ],
+    "legal_basis": [
+      "Legea nr. 31/1990 privind societatile, art. 5-8, art. 191-197",
+      "OUG nr. 44/2008, art. 7-21"
+    ]
+  },
+  {
+    "category": "firme-insolventa",
+    "title": "Firme Insolventa",
+    "order": 24,
+    "files": [
+      {
+        "file": "cerere-deschidere-procedura-insolventa-debitor.md",
+        "title": "Cerere Deschidere Procedura Insolventa Debitor"
+      },
+      {
+        "file": "declaratie-creanta-dosar-insolventa.md",
+        "title": "Declaratie Creanta Dosar Insolventa"
+      },
+      {
+        "file": "contestatie-tabel-creante.md",
+        "title": "Contestatie Tabel Creante"
+      },
+      {
+        "file": "cerere-ridicare-drept-administrare.md",
+        "title": "Cerere Ridicare Drept Administrare"
+      },
+      {
+        "file": "acord-plan-reorganizare-simplificat.md",
+        "title": "Acord Plan Reorganizare Simplificat"
+      },
+      {
+        "file": "notificare-lichidator-creanta.md",
+        "title": "Notificare Lichidator Creanta"
+      },
+      {
+        "file": "cerere-inchidere-procedura-insolventa.md",
+        "title": "Cerere Inchidere Procedura Insolventa"
+      }
+    ],
+    "legal_basis": [
+      "Legea nr. 85/2014 privind insolventa, art. 66-75 si art. 102-113",
+      "Codul de procedura civila, art. 194"
+    ]
+  },
+  {
+    "category": "achizitii-publice",
+    "title": "Achizitii Publice",
+    "order": 25,
+    "files": [
+      {
+        "file": "cerere-clarificari-documentatie-atribuire.md",
+        "title": "Cerere Clarificari Documentatie Atribuire"
+      },
+      {
+        "file": "contestatie-seap-cnsc.md",
+        "title": "Contestatie SEAP CNSC"
+      },
+      {
+        "file": "contestatie-rezultat-achizitie-publica.md",
+        "title": "Contestatie Rezultat Achizitie Publica"
+      },
+      {
+        "file": "cerere-acces-dosar-achizitie.md",
+        "title": "Cerere Acces Dosar Achizitie"
+      },
+      {
+        "file": "notificare-neconformitate-caiet-sarcini.md",
+        "title": "Notificare Neconformitate Caiet Sarcini"
+      },
+      {
+        "file": "declaratie-neincadrare-conflict-interese.md",
+        "title": "Declaratie Neincadrare Conflict Interese"
+      },
+      {
+        "file": "cerere-prelungire-termen-depunere-oferta.md",
+        "title": "Cerere Prelungire Termen Depunere Oferta"
+      },
+      {
+        "file": "solicitare-reconsiliere-contract-achizitie.md",
+        "title": "Solicitare Reconsiliere Contract Achizitie"
+      }
+    ],
+    "legal_basis": [
+      "Legea nr. 98/2016 privind achizitiile publice, art. 49-57 si art. 128-137",
+      "Legea nr. 101/2016, art. 8-26"
+    ]
+  },
+  {
+    "category": "fonduri-europene",
+    "title": "Fonduri Europene",
+    "order": 26,
+    "files": [
+      {
+        "file": "cerere-clarificari-ghid-solicitant.md",
+        "title": "Cerere Clarificari Ghid Solicitant"
+      },
+      {
+        "file": "contestatie-respingere-proiect.md",
+        "title": "Contestatie Respingere Proiect"
+      },
+      {
+        "file": "notificare-neregula-proiect.md",
+        "title": "Notificare Neregula Proiect"
+      },
+      {
+        "file": "cerere-prelungire-perioada-implementare.md",
+        "title": "Cerere Prelungire Perioada Implementare"
+      },
+      {
+        "file": "cerere-modificare-buget-proiect.md",
+        "title": "Cerere Modificare Buget Proiect"
+      },
+      {
+        "file": "notificare-achizitie-proiect-ue.md",
+        "title": "Notificare Achizitie Proiect UE"
+      },
+      {
+        "file": "declaratie-dubla-finantare.md",
+        "title": "Declaratie Dubla Finantare"
+      },
+      {
+        "file": "cerere-rambursare-cheltuieli-eligibile.md",
+        "title": "Cerere Rambursare Cheltuieli Eligibile"
+      }
+    ],
+    "legal_basis": [
+      "OUG nr. 66/2011, art. 20-31",
+      "Regulamentul (UE) 2021/1060, art. 63-69"
+    ]
+  },
+  {
+    "category": "sanatate-drepturi",
+    "title": "Sanatate Drepturi",
+    "order": 27,
+    "files": [
+      {
+        "file": "cerere-acces-dosar-medical.md",
+        "title": "Cerere Acces Dosar Medical"
+      },
+      {
+        "file": "cerere-copie-document-medical.md",
+        "title": "Cerere Copie Document Medical"
+      },
+      {
+        "file": "cerere-transfer-alta-unitate-medicala.md",
+        "title": "Cerere Transfer Alta Unitate Medicala"
+      },
+      {
+        "file": "refuz-interventie-medicala-informat.md",
+        "title": "Refuz Interventie Medicala Informat"
+      },
+      {
+        "file": "sesizare-colegiul-medicilor.md",
+        "title": "Sesizare Colegiul Medicilor"
+      },
+      {
+        "file": "cerere-consiliu-medical-al-doilea-aviz.md",
+        "title": "Cerere Consiliu Medical Al Doilea Aviz"
+      },
+      {
+        "file": "plangere-malpraxis.md",
+        "title": "Plangere Malpraxis"
+      },
+      {
+        "file": "cerere-spitalizare-voluntara-psihiatrie.md",
+        "title": "Cerere Spitalizare Voluntara Psihiatrie"
+      },
+      {
+        "file": "cerere-externare-contra-recomandarilor.md",
+        "title": "Cerere Externare Contra Recomandarilor"
+      }
+    ],
+    "legal_basis": [
+      "Legea nr. 46/2003 privind drepturile pacientului, art. 6-13 si art. 21-25",
+      "Legea nr. 95/2006, art. 653-681"
+    ]
+  },
+  {
+    "category": "asigurari",
+    "title": "Asigurari",
+    "order": 28,
+    "files": [
+      {
+        "file": "cerere-despagubire-rca-victima.md",
+        "title": "Cerere Despagubire RCA Victima"
+      },
+      {
+        "file": "cerere-despagubire-casco.md",
+        "title": "Cerere Despagubire CASCO"
+      },
+      {
+        "file": "cerere-despagubire-asigurare-locuinta.md",
+        "title": "Cerere Despagubire Asigurare Locuinta"
+      },
+      {
+        "file": "cerere-despagubire-asigurare-viata.md",
+        "title": "Cerere Despagubire Asigurare Viata"
+      },
+      {
+        "file": "notificare-asigurator-dauna-avarie.md",
+        "title": "Notificare Asigurator Dauna Avarie"
+      },
+      {
+        "file": "contestatie-refuz-despagubire.md",
+        "title": "Contestatie Refuz Despagubire"
+      },
+      {
+        "file": "cerere-constatare-dauna-amiabila.md",
+        "title": "Cerere Constatare Dauna Amiabila"
+      },
+      {
+        "file": "sesizare-asr-asigurator.md",
+        "title": "Sesizare ASF Asigurator"
+      },
+      {
+        "file": "cerere-reziliere-polita-asigurare.md",
+        "title": "Cerere Reziliere Polita Asigurare"
+      },
+      {
+        "file": "declaratie-dauna-asigurare-locuinta.md",
+        "title": "Declaratie Dauna Asigurare Locuinta"
+      }
+    ],
+    "legal_basis": [
+      "Legea nr. 132/2017 privind RCA, art. 14-22",
+      "Codul civil, art. 2.199-2.241"
+    ]
+  },
+  {
+    "category": "bancar-credit",
+    "title": "Bancar Credit",
+    "order": 29,
+    "files": [
+      {
+        "file": "cerere-informare-credit-banca.md",
+        "title": "Cerere Informare Credit Banca"
+      },
+      {
+        "file": "cerere-rambursare-anticipata-credit.md",
+        "title": "Cerere Rambursare Anticipata Credit"
+      },
+      {
+        "file": "contestatie-comision-bancar-abuziv.md",
+        "title": "Contestatie Comision Bancar Abuziv"
+      },
+      {
+        "file": "notificare-banca-situatie-dificila-plata.md",
+        "title": "Notificare Banca Situatie Dificila Plata"
+      },
+      {
+        "file": "cerere-restructurare-credit.md",
+        "title": "Cerere Restructurare Credit"
+      },
+      {
+        "file": "sesizare-anpc-banca.md",
+        "title": "Sesizare ANPC Banca"
+      },
+      {
+        "file": "cerere-inchidere-cont-bancar.md",
+        "title": "Cerere Inchidere Cont Bancar"
+      },
+      {
+        "file": "cerere-portabilitate-credit.md",
+        "title": "Cerere Portabilitate Credit"
+      }
+    ],
+    "legal_basis": [
+      "OUG nr. 50/2010 privind contractele de credit, art. 36-41 si art. 66-71",
+      "OG nr. 21/1992, art. 9-13"
+    ]
+  },
+  {
+    "category": "social-ajutoare",
+    "title": "Social Ajutoare",
+    "order": 30,
+    "files": [
+      {
+        "file": "cerere-ajutor-social-venit-minim.md",
+        "title": "Cerere Ajutor Social Venit Minim"
+      },
+      {
+        "file": "cerere-ajutor-incalzire.md",
+        "title": "Cerere Ajutor Incalzire"
+      },
+      {
+        "file": "cerere-alocatie-copil.md",
+        "title": "Cerere Alocatie Copil"
+      },
+      {
+        "file": "cerere-indemnizatie-crestere-copil.md",
+        "title": "Cerere Indemnizatie Crestere Copil"
+      },
+      {
+        "file": "cerere-somaj-indemnizatie.md",
+        "title": "Cerere Somaj Indemnizatie"
+      },
+      {
+        "file": "cerere-ajutor-de-urgenta.md",
+        "title": "Cerere Ajutor De Urgenta"
+      },
+      {
+        "file": "cerere-cantina-sociala.md",
+        "title": "Cerere Cantina Sociala"
+      },
+      {
+        "file": "cerere-asistent-personal-varstnic.md",
+        "title": "Cerere Asistent Personal Varstnic"
+      },
+      {
+        "file": "contestatie-refuz-ajutor-social.md",
+        "title": "Contestatie Refuz Ajutor Social"
+      },
+      {
+        "file": "cerere-reevaluare-ancheta-sociala.md",
+        "title": "Cerere Reevaluare Ancheta Sociala"
+      }
+    ],
+    "legal_basis": [
+      "Legea nr. 196/2016 privind venitul minim de incluziune, art. 10-23",
+      "Legea nr. 277/2010, art. 9-17"
+    ]
+  },
+  {
+    "category": "social-dizabilitati",
+    "title": "Social Dizabilitati",
+    "order": 31,
+    "files": [
+      {
+        "file": "cerere-certificat-incadrare-grad-handicap.md",
+        "title": "Cerere Certificat Incadrare Grad Handicap"
+      },
+      {
+        "file": "contestatie-refuz-certificat-handicap.md",
+        "title": "Contestatie Refuz Certificat Handicap"
+      },
+      {
+        "file": "cerere-reevaluare-grad-handicap.md",
+        "title": "Cerere Reevaluare Grad Handicap"
+      },
+      {
+        "file": "cerere-asistent-personal-profesionist.md",
+        "title": "Cerere Asistent Personal Profesionist"
+      },
+      {
+        "file": "cerere-indemnizatie-insotitor.md",
+        "title": "Cerere Indemnizatie Insotitor"
+      },
+      {
+        "file": "cerere-transport-gratuit-handicap.md",
+        "title": "Cerere Transport Gratuit Handicap"
+      },
+      {
+        "file": "sesizare-discriminare-dizabilitate.md",
+        "title": "Sesizare Discriminare Dizabilitate"
+      }
+    ],
+    "legal_basis": [
+      "Legea nr. 448/2006 privind protectia persoanelor cu handicap, art. 6-13 si art. 85-90",
+      "OG nr. 137/2000, art. 2"
+    ]
+  },
+  {
+    "category": "pensii",
+    "title": "Pensii",
+    "order": 32,
+    "files": [
+      {
+        "file": "cerere-pensie-limita-varsta.md",
+        "title": "Cerere Pensie Limita Varsta"
+      },
+      {
+        "file": "cerere-pensie-invaliditate.md",
+        "title": "Cerere Pensie Invaliditate"
+      },
+      {
+        "file": "cerere-pensie-urmas.md",
+        "title": "Cerere Pensie Urmas"
+      },
+      {
+        "file": "contestatie-decizie-pensionare.md",
+        "title": "Contestatie Decizie Pensionare"
+      },
+      {
+        "file": "cerere-recalculare-pensie.md",
+        "title": "Cerere Recalculare Pensie"
+      },
+      {
+        "file": "cerere-cumulare-pensie-salariu.md",
+        "title": "Cerere Cumulare Pensie Salariu"
+      }
+    ],
+    "legal_basis": [
+      "Legea nr. 360/2023 privind sistemul public de pensii, art. 46-94",
+      "Legea nr. 263/2010, art. 149-151"
+    ]
+  },
+  {
+    "category": "fiscal-anaf",
+    "title": "Fiscal ANAF",
+    "order": 33,
+    "files": [
+      {
+        "file": "contestatie-decizie-impunere.md",
+        "title": "Contestatie Decizie Impunere"
+      },
+      {
+        "file": "contestatie-decizie-impozit-local.md",
+        "title": "Contestatie Decizie Impozit Local"
+      },
+      {
+        "file": "cerere-restituire-suma-platita-in-plus.md",
+        "title": "Cerere Restituire Suma Platita In Plus"
+      },
+      {
+        "file": "cerere-esalonare-plata-anaf.md",
+        "title": "Cerere Esalonare Plata ANAF"
+      },
+      {
+        "file": "cerere-certificat-atestare-fiscala.md",
+        "title": "Cerere Certificat Atestare Fiscala"
+      },
+      {
+        "file": "cerere-ridicare-poprire-cont.md",
+        "title": "Cerere Ridicare Poprire Cont"
+      },
+      {
+        "file": "contestatie-titlu-executare-silita.md",
+        "title": "Contestatie Titlu Executare Silita"
+      },
+      {
+        "file": "cerere-suspendare-executare-silita.md",
+        "title": "Cerere Suspendare Executare Silita"
+      },
+      {
+        "file": "cerere-compensare-creante-anaf.md",
+        "title": "Cerere Compensare Creante ANAF"
+      },
+      {
+        "file": "notificare-eroare-declaratie-fiscala.md",
+        "title": "Notificare Eroare Declaratie Fiscala"
+      },
+      {
+        "file": "cerere-anulare-penalitati-intarziere.md",
+        "title": "Cerere Anulare Penalitati Intarziere"
+      },
+      {
+        "file": "sesizare-frauda-fiscala-anaf.md",
+        "title": "Sesizare Frauda Fiscala ANAF"
+      }
+    ],
+    "legal_basis": [
+      "Legea nr. 207/2015 - Codul de procedura fiscala, art. 268-281 si art. 184-209",
+      "Legea nr. 227/2015 - Codul fiscal, art. 1-3"
+    ]
+  },
+  {
+    "category": "fiscal-inregistrare",
+    "title": "Fiscal Inregistrare",
+    "order": 34,
+    "files": [
+      {
+        "file": "cerere-inregistrare-fiscala-pfa.md",
+        "title": "Cerere Inregistrare Fiscala PFA"
+      },
+      {
+        "file": "cerere-schimbare-vector-fiscal.md",
+        "title": "Cerere Schimbare Vector Fiscal"
+      },
+      {
+        "file": "cerere-inregistrare-tva.md",
+        "title": "Cerere Inregistrare TVA"
+      },
+      {
+        "file": "cerere-scoatere-din-evidenta-tva.md",
+        "title": "Cerere Scoatere Din Evidenta TVA"
+      },
+      {
+        "file": "cerere-inregistrare-ca-platitor-cass-pfa.md",
+        "title": "Cerere Inregistrare Ca Platitor CASS PFA"
+      },
+      {
+        "file": "notificare-incetare-activitate-pfa-anaf.md",
+        "title": "Notificare Incetare Activitate PFA ANAF"
+      },
+      {
+        "file": "cerere-rectificare-declaratie-fiscala.md",
+        "title": "Cerere Rectificare Declaratie Fiscala"
+      },
+      {
+        "file": "cerere-acord-platire-impozit-anual.md",
+        "title": "Cerere Acord Platire Impozit Anual"
+      }
+    ],
+    "legal_basis": [
+      "Legea nr. 207/2015 - Codul de procedura fiscala, art. 82-91",
+      "Legea nr. 227/2015 - Codul fiscal, art. 316-317"
+    ]
+  },
+  {
+    "category": "penal-victima",
+    "title": "Penal Victima",
+    "order": 35,
+    "files": [
+      {
+        "file": "plangere-penala-furt.md",
+        "title": "Plangere Penala Furt"
+      },
+      {
+        "file": "plangere-penala-inselaciune.md",
+        "title": "Plangere Penala Inselaciune"
+      },
+      {
+        "file": "plangere-penala-amenintare.md",
+        "title": "Plangere Penala Amenintare"
+      },
+      {
+        "file": "plangere-penala-loviri-vatamari.md",
+        "title": "Plangere Penala Loviri Vatamari"
+      },
+      {
+        "file": "cerere-constituire-parte-civila.md",
+        "title": "Cerere Constituire Parte Civila"
+      },
+      {
+        "file": "cerere-asistenta-juridica-gratuita-victima.md",
+        "title": "Cerere Asistenta Juridica Gratuita Victima"
+      },
+      {
+        "file": "cerere-masuri-asiguratorii-daune.md",
+        "title": "Cerere Masuri Asiguratorii Daune"
+      },
+      {
+        "file": "cerere-compensatii-victima-infractiune.md",
+        "title": "Cerere Compensatii Victima Infractiune"
+      }
+    ],
+    "legal_basis": [
+      "Codul de procedura penala, art. 289-295",
+      "Legea nr. 211/2004 privind protectia victimelor infractiunilor, art. 4-14"
+    ]
+  },
+  {
+    "category": "penal-plangere",
+    "title": "Penal Plangere",
+    "order": 36,
+    "files": [
+      {
+        "file": "denunt-savarsirii-infractiune.md",
+        "title": "Denunt Savarsirii Infractiune"
+      },
+      {
+        "file": "plangere-penala-generica.md",
+        "title": "Plangere Penala Generica"
+      },
+      {
+        "file": "plangere-penala-abuz-serviciu.md",
+        "title": "Plangere Penala Abuz Serviciu"
+      },
+      {
+        "file": "cerere-informare-stadiu-dosar-penal.md",
+        "title": "Cerere Informare Stadiu Dosar Penal"
+      },
+      {
+        "file": "contestatie-clasare-dosar-penal.md",
+        "title": "Contestatie Clasare Dosar Penal"
+      },
+      {
+        "file": "cerere-acces-dosar-penal-parte-vatamata.md",
+        "title": "Cerere Acces Dosar Penal Parte Vatamata"
+      }
+    ],
+    "legal_basis": [
+      "Codul de procedura penala, art. 288-299 si art. 336-341",
+      "Codul penal, art. 297"
+    ]
+  },
+  {
+    "category": "procedura-civila-actiuni",
+    "title": "Procedura Civila Actiuni",
+    "order": 37,
+    "files": [
+      {
+        "file": "cerere-chemare-judecata-pretentii.md",
+        "title": "Cerere Chemare Judecata Pretentii"
+      },
+      {
+        "file": "cerere-ordonanta-platii.md",
+        "title": "Cerere Ordonanta Platii"
+      },
+      {
+        "file": "cerere-evacuare-chirias.md",
+        "title": "Cerere Evacuare Chirias"
+      },
+      {
+        "file": "cerere-restituire-imprumut-instanta.md",
+        "title": "Cerere Restituire Imprumut Instanta"
+      },
+      {
+        "file": "cerere-anulare-act-juridic.md",
+        "title": "Cerere Anulare Act Juridic"
+      },
+      {
+        "file": "intampinare-generica.md",
+        "title": "Intampinare Generica"
+      },
+      {
+        "file": "cerere-amanare-termen.md",
+        "title": "Cerere Amanare Termen"
+      },
+      {
+        "file": "cerere-recuzare-judecator.md",
+        "title": "Cerere Recuzare Judecator"
+      },
+      {
+        "file": "cerere-stramutare-dosar.md",
+        "title": "Cerere Stramutare Dosar"
+      },
+      {
+        "file": "cerere-mediere-prealabila.md",
+        "title": "Cerere Mediere Prealabila"
+      }
+    ],
+    "legal_basis": [
+      "Codul de procedura civila, art. 30-33, art. 194-204",
+      "Codul civil, art. 1.516-1.535"
+    ]
+  },
+  {
+    "category": "procedura-civila-executare",
+    "title": "Procedura Civila Executare",
+    "order": 38,
+    "files": [
+      {
+        "file": "cerere-incuviintare-executare-silita.md",
+        "title": "Cerere Incuviintare Executare Silita"
+      },
+      {
+        "file": "cerere-poprire-venituri.md",
+        "title": "Cerere Poprire Venituri"
+      },
+      {
+        "file": "cerere-sechestru-bunuri-mobile.md",
+        "title": "Cerere Sechestru Bunuri Mobile"
+      },
+      {
+        "file": "contestatie-la-executare.md",
+        "title": "Contestatie La Executare"
+      },
+      {
+        "file": "cerere-suspendare-executare.md",
+        "title": "Cerere Suspendare Executare"
+      },
+      {
+        "file": "cerere-lamurire-titlu-executoriu.md",
+        "title": "Cerere Lamurire Titlu Executoriu"
+      },
+      {
+        "file": "cerere-eliberare-suma-executata.md",
+        "title": "Cerere Eliberare Suma Executata"
+      },
+      {
+        "file": "cerere-intoarcere-executare.md",
+        "title": "Cerere Intoarcere Executare"
+      }
+    ],
+    "legal_basis": [
+      "Codul de procedura civila, art. 622-723",
+      "Codul de procedura civila, art. 712-720"
+    ]
+  },
+  {
+    "category": "mediere-arbitraj",
+    "title": "Mediere Arbitraj",
+    "order": 39,
+    "files": [
+      {
+        "file": "cerere-mediere-conflict-comercial.md",
+        "title": "Cerere Mediere Conflict Comercial"
+      },
+      {
+        "file": "acord-de-mediere.md",
+        "title": "Acord De Mediere"
+      },
+      {
+        "file": "cerere-arbitraj-litigiu-comercial.md",
+        "title": "Cerere Arbitraj Litigiu Comercial"
+      },
+      {
+        "file": "acord-clauza-arbitrala.md",
+        "title": "Acord Clauza Arbitrala"
+      },
+      {
+        "file": "cerere-recuzare-mediator.md",
+        "title": "Cerere Recuzare Mediator"
+      },
+      {
+        "file": "notificare-refuz-mediere.md",
+        "title": "Notificare Refuz Mediere"
+      }
+    ],
+    "legal_basis": [
+      "Legea nr. 192/2006 privind medierea, art. 43-59",
+      "Codul de procedura civila, art. 541-621"
+    ]
+  },
+  {
+    "category": "mediu",
+    "title": "Mediu",
+    "order": 40,
+    "files": [
+      {
+        "file": "sesizare-garda-de-mediu-poluare.md",
+        "title": "Sesizare Garda De Mediu Poluare"
+      },
+      {
+        "file": "sesizare-primarie-deseuri-ilegale.md",
+        "title": "Sesizare Primarie Deseuri Ilegale"
+      },
+      {
+        "file": "cerere-informatii-mediu.md",
+        "title": "Cerere Informatii Mediu"
+      },
+      {
+        "file": "contestatie-autorizatie-mediu.md",
+        "title": "Contestatie Autorizatie Mediu"
+      },
+      {
+        "file": "notificare-poluare-apa-sol.md",
+        "title": "Notificare Poluare Apa Sol"
+      },
+      {
+        "file": "cerere-remediere-teren-contaminat.md",
+        "title": "Cerere Remediere Teren Contaminat"
+      },
+      {
+        "file": "plangere-zgomot-activitate-industriala.md",
+        "title": "Plangere Zgomot Activitate Industriala"
+      }
+    ],
+    "legal_basis": [
+      "OUG nr. 195/2005 privind protectia mediului, art. 5, art. 20-21, art. 96",
+      "HG nr. 878/2005, art. 3-7"
+    ]
+  },
+  {
+    "category": "agricultura-terenuri",
+    "title": "Agricultura Terenuri",
+    "order": 41,
+    "files": [
+      {
+        "file": "cerere-reconstituire-drept-proprietate-teren.md",
+        "title": "Cerere Reconstituire Drept Proprietate Teren"
+      },
+      {
+        "file": "contestatie-comisie-locala-fond-funciar.md",
+        "title": "Contestatie Comisie Locala Fond Funciar"
+      },
+      {
+        "file": "contract-arenda-teren-agricol.md",
+        "title": "Contract Arenda Teren Agricol"
+      },
+      {
+        "file": "notificare-exercitare-drept-preemptiune-teren-agricol.md",
+        "title": "Notificare Exercitare Drept Preemptiune Teren Agricol"
+      },
+      {
+        "file": "cerere-subventie-apia.md",
+        "title": "Cerere Subventie APIA"
+      },
+      {
+        "file": "contestatie-reducere-subventie-apia.md",
+        "title": "Contestatie Reducere Subventie APIA"
+      },
+      {
+        "file": "cerere-intabulare-teren-agricol.md",
+        "title": "Cerere Intabulare Teren Agricol"
+      },
+      {
+        "file": "acord-exploatare-comuna-teren.md",
+        "title": "Acord Exploatare Comuna Teren"
+      }
+    ],
+    "legal_basis": [
+      "Legea nr. 18/1991 a fondului funciar, art. 8-13",
+      "Legea nr. 17/2014, art. 4-9"
+    ]
+  },
+  {
+    "category": "educatie",
+    "title": "Educatie",
+    "order": 42,
+    "files": [
+      {
+        "file": "cerere-transfer-elev-alta-scoala.md",
+        "title": "Cerere Transfer Elev Alta Scoala"
+      },
+      {
+        "file": "contestatie-nota-examen.md",
+        "title": "Contestatie Nota Examen"
+      },
+      {
+        "file": "sesizare-isu-conditii-scoala.md",
+        "title": "Sesizare ISU Conditii Scoala"
+      },
+      {
+        "file": "cerere-scutire-ora-educatie-fizica.md",
+        "title": "Cerere Scutire Ora Educatie Fizica"
+      },
+      {
+        "file": "cerere-cazare-camin-student.md",
+        "title": "Cerere Cazare Camin Student"
+      },
+      {
+        "file": "contestatie-exmatriculare.md",
+        "title": "Contestatie Exmatriculare"
+      },
+      {
+        "file": "cerere-echivalare-studii-strainatate.md",
+        "title": "Cerere Echivalare Studii Strainatate"
+      }
+    ],
+    "legal_basis": [
+      "Legea invatamantului preuniversitar nr. 198/2023, art. 13-16 si art. 105-109",
+      "Legea invatamantului superior nr. 199/2023, art. 128-137"
+    ]
+  },
+  {
+    "category": "ong-asociatii",
+    "title": "Ong Asociatii",
+    "order": 43,
+    "files": [
+      {
+        "file": "act-constitutiv-asociatie-simplu.md",
+        "title": "Act Constitutiv Asociatie Simplu"
+      },
+      {
+        "file": "statut-asociatie-simplu.md",
+        "title": "Statut Asociatie Simplu"
+      },
+      {
+        "file": "hotarare-adunare-generala-ong.md",
+        "title": "Hotarare Adunare Generala Ong"
+      },
+      {
+        "file": "decizie-consiliu-director-ong.md",
+        "title": "Decizie Consiliu Director Ong"
+      },
+      {
+        "file": "cerere-inscriere-registrul-asociatii.md",
+        "title": "Cerere Inscriere Registrul Asociatii"
+      },
+      {
+        "file": "cerere-modificare-statut-asociatie.md",
+        "title": "Cerere Modificare Statut Asociatie"
+      },
+      {
+        "file": "cerere-dizolvare-asociatie.md",
+        "title": "Cerere Dizolvare Asociatie"
+      },
+      {
+        "file": "contract-voluntariat.md",
+        "title": "Contract Voluntariat"
+      },
+      {
+        "file": "acord-parteneriat-ong.md",
+        "title": "Acord Parteneriat Ong"
+      }
+    ],
+    "legal_basis": [
+      "OG nr. 26/2000 cu privire la asociatii si fundatii, art. 6-10 si art. 21-33",
+      "Legea nr. 78/2014 privind voluntariatul, art. 10-16"
+    ]
+  },
+  {
+    "category": "asociatie-proprietari",
+    "title": "Asociatie Proprietari",
+    "order": 44,
+    "files": [
+      {
+        "file": "cerere-catre-asociatia-de-proprietari.md",
+        "title": "Cerere Catre Asociatia De Proprietari"
+      },
+      {
+        "file": "contestatie-cheltuieli-comune.md",
+        "title": "Contestatie Cheltuieli Comune"
+      },
+      {
+        "file": "cerere-adeverinta-plata-intretinere.md",
+        "title": "Cerere Adeverinta Plata Intretinere"
+      },
+      {
+        "file": "cerere-repartizare-fond-reparatii.md",
+        "title": "Cerere Repartizare Fond Reparatii"
+      },
+      {
+        "file": "sesizare-administrator-asociatie.md",
+        "title": "Sesizare Administrator Asociatie"
+      },
+      {
+        "file": "cerere-convocare-adunare-generala.md",
+        "title": "Cerere Convocare Adunare Generala"
+      },
+      {
+        "file": "cerere-consultare-documente-financiare.md",
+        "title": "Cerere Consultare Documente Financiare"
+      },
+      {
+        "file": "notificare-deteriorare-parte-comuna.md",
+        "title": "Notificare Deteriorare Parte Comuna"
+      }
+    ],
+    "legal_basis": [
+      "Legea nr. 196/2018 privind asociatiile de proprietari, art. 28-35 si art. 45-50",
+      "Codul civil, art. 647-667"
+    ]
+  },
+  {
+    "category": "gdpr-cetatean",
+    "title": "GDPR Cetatean",
+    "order": 45,
+    "files": [
+      {
+        "file": "cerere-acces-date-personale.md",
+        "title": "Cerere Acces Date Personale"
+      },
+      {
+        "file": "cerere-stergere-date-personale.md",
+        "title": "Cerere Stergere Date Personale"
+      },
+      {
+        "file": "cerere-opozitie-prelucrare-date.md",
+        "title": "Cerere Opozitie Prelucrare Date"
+      },
+      {
+        "file": "cerere-rectificare-date-inexacte.md",
+        "title": "Cerere Rectificare Date Inexacte"
+      },
+      {
+        "file": "cerere-restrictionare-prelucrare.md",
+        "title": "Cerere Restrictionare Prelucrare"
+      },
+      {
+        "file": "cerere-portabilitate-date.md",
+        "title": "Cerere Portabilitate Date"
+      },
+      {
+        "file": "plangere-anspdcp.md",
+        "title": "Plangere Anspdcp"
+      },
+      {
+        "file": "retragere-consimtamant-prelucrare.md",
+        "title": "Retragere Consimtamant Prelucrare"
+      }
+    ],
+    "legal_basis": [
+      "Regulamentul (UE) 2016/679, art. 12-22 si art. 77",
+      "Legea nr. 190/2018, art. 3-7"
+    ]
+  },
+  {
+    "category": "diaspora",
+    "title": "Diaspora",
+    "order": 46,
+    "files": [
+      {
+        "file": "procura-notariala-pentru-acte-romania.md",
+        "title": "Procura Notariala Pentru Acte Romania"
+      },
+      {
+        "file": "declaratie-rezidenta-fiscala-strainatate.md",
+        "title": "Declaratie Rezidenta Fiscala Strainatate"
+      },
+      {
+        "file": "cerere-apostila-document-roman.md",
+        "title": "Cerere Apostila Document Roman"
+      },
+      {
+        "file": "cerere-transcriere-casatorie-strainatate.md",
+        "title": "Cerere Transcriere Casatorie Strainatate"
+      },
+      {
+        "file": "cerere-transcriere-nastere-strainatate.md",
+        "title": "Cerere Transcriere Nastere Strainatate"
+      },
+      {
+        "file": "cerere-repatriere-documente.md",
+        "title": "Cerere Repatriere Documente"
+      },
+      {
+        "file": "cerere-vot-sectie-strainatate.md",
+        "title": "Cerere Vot Sectie Strainatate"
+      },
+      {
+        "file": "declaratie-domiciliu-strainatate.md",
+        "title": "Declaratie Domiciliu Strainatate"
+      }
+    ],
+    "legal_basis": [
+      "Legea nr. 248/2005, art. 6-17",
+      "Legea nr. 119/1996, art. 41-43",
+      "Legea nr. 36/1995, art. 12-13"
+    ]
+  },
+  {
+    "category": "presa-exprimare",
+    "title": "Presa Exprimare",
+    "order": 47,
+    "files": [
+      {
+        "file": "cerere-drept-la-replica.md",
+        "title": "Cerere Drept La Replica"
+      },
+      {
+        "file": "notificare-stergere-continut-denigrator.md",
+        "title": "Notificare Stergere Continut Denigrator"
+      },
+      {
+        "file": "cerere-rectificare-informatii-false-presa.md",
+        "title": "Cerere Rectificare Informatii False Presa"
+      },
+      {
+        "file": "sesizare-cna-continut-audiovizual.md",
+        "title": "Sesizare CNA Continut Audiovizual"
+      },
+      {
+        "file": "notificare-incalcare-drepturi-imagine.md",
+        "title": "Notificare Incalcare Drepturi Imagine"
+      }
+    ],
+    "legal_basis": [
+      "Constitutia Romaniei, art. 30",
+      "Codul civil, art. 70-76",
+      "Legea audiovizualului nr. 504/2002, art. 40-42"
+    ]
+  },
+  {
+    "category": "executare-pedepse",
+    "title": "Executare Pedepse",
+    "order": 48,
+    "files": [
+      {
+        "file": "cerere-intrerupere-executare-pedeapsa.md",
+        "title": "Cerere Intrerupere Executare Pedeapsa"
+      },
+      {
+        "file": "cerere-liberare-conditionata.md",
+        "title": "Cerere Liberare Conditionata"
+      },
+      {
+        "file": "cerere-gratie-individuala.md",
+        "title": "Cerere Gratie Individuala"
+      },
+      {
+        "file": "cerere-transfer-alta-unitate-penitenciara.md",
+        "title": "Cerere Transfer Alta Unitate Penitenciara"
+      },
+      {
+        "file": "cerere-permisie-iesire-penitenciar.md",
+        "title": "Cerere Permisie Iesire Penitenciar"
+      }
+    ],
+    "legal_basis": [
+      "Legea nr. 254/2013 privind executarea pedepselor, art. 95-106",
+      "Codul penal, art. 99-106"
+    ]
+  },
+  {
+    "category": "armata",
+    "title": "Armata",
+    "order": 49,
+    "files": [
+      {
+        "file": "cerere-rezervist-informatii.md",
+        "title": "Cerere Rezervist Informatii"
+      },
+      {
+        "file": "cerere-recunoastere-grad-militar.md",
+        "title": "Cerere Recunoastere Grad Militar"
+      },
+      {
+        "file": "cerere-pensie-militara.md",
+        "title": "Cerere Pensie Militara"
+      },
+      {
+        "file": "contestatie-decizie-militara.md",
+        "title": "Contestatie Decizie Militara"
+      }
+    ],
+    "legal_basis": [
+      "Legea nr. 80/1995 privind statutul cadrelor militare, art. 85-92",
+      "Legea nr. 223/2015 privind pensiile militare, art. 14-31"
+    ]
+  },
+  {
+    "category": "sport",
+    "title": "Sport",
+    "order": 50,
+    "files": [
+      {
+        "file": "contract-sportiv-simplu.md",
+        "title": "Contract Sportiv Simplu"
+      },
+      {
+        "file": "contract-antrenor.md",
+        "title": "Contract Antrenor"
+      },
+      {
+        "file": "cerere-transfer-sportiv.md",
+        "title": "Cerere Transfer Sportiv"
+      },
+      {
+        "file": "acord-sponsorizare-club-sportiv.md",
+        "title": "Acord Sponsorizare Club Sportiv"
+      },
+      {
+        "file": "contestatie-decizie-federatie.md",
+        "title": "Contestatie Decizie Federatie"
+      },
+      {
+        "file": "cerere-afiliere-club-federatie.md",
+        "title": "Cerere Afiliere Club Federatie"
+      }
+    ],
+    "legal_basis": [
+      "Legea educatiei fizice si sportului nr. 69/2000, art. 13-22 si art. 67-70",
+      "Codul civil, art. 1.166-1.323"
+    ]
+  },
+  {
+    "category": "it-software",
+    "title": "IT Software",
+    "order": 51,
+    "files": [
+      {
+        "file": "contract-dezvoltare-software-custom.md",
+        "title": "Contract Dezvoltare Software Custom"
+      },
+      {
+        "file": "contract-sla-servicii-it.md",
+        "title": "Contract SLA Servicii IT"
+      },
+      {
+        "file": "contract-licenta-software-saas.md",
+        "title": "Contract Licenta Software Saas"
+      },
+      {
+        "file": "acord-confidentialitate-proiect-it.md",
+        "title": "Acord Confidentialitate Proiect IT"
+      },
+      {
+        "file": "contract-mentenanta-aplicatie.md",
+        "title": "Contract Mentenanta Aplicatie"
+      },
+      {
+        "file": "acord-transfer-cod-sursa.md",
+        "title": "Acord Transfer Cod Sursa"
+      },
+      {
+        "file": "contract-hosting-servicii-cloud.md",
+        "title": "Contract Hosting Servicii Cloud"
+      },
+      {
+        "file": "cerere-incetare-servicii-it.md",
+        "title": "Cerere Incetare Servicii IT"
+      },
+      {
+        "file": "acord-testare-software-beta.md",
+        "title": "Acord Testare Software Beta"
+      }
+    ],
+    "legal_basis": [
+      "Codul civil, art. 1.166-1.323",
+      "Legea nr. 8/1996, art. 39-47",
+      "Regulamentul (UE) 2016/679, art. 28-32"
+    ]
+  }
+]
